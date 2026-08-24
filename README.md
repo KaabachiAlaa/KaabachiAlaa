@@ -3,8 +3,6 @@
 # Hi, I'm Alaa Kaabachi 👋
 ### Student in Big Data & Data Analysis | Data Science Master's Student
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlaaKaabachi&color=e08a6b&style=for-the-badge&label=PROFILE+VIEWS)
-
 [![Portfolio](https://img.shields.io/badge/Project_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaabachialaa.github.io/AlaaKaabachiProjectWebsite/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaabach-alaa)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaakaabachi100@gmail.com)
@@ -12,13 +10,6 @@
 <br/>
 
 ![Profile Card](./profile-card.svg)
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlaaKaabachi&show_icons=true&count_private=true&hide_border=true&bg_color=2b3244&title_color=e08a6b&text_color=e6e6f0&icon_color=61afef&ring_color=61afef" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaKaabachi&layout=compact&hide_border=true&bg_color=2b3244&title_color=e08a6b&text_color=e6e6f0&langs_count=8" width="34%" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaKaabachi&hide_border=true&background=2b3244&ring=e08a6b&fire=e08a6b&currStreakLabel=e6e6f0&sideLabels=e6e6f0&currStreakNum=e6e6f0&sideNums=e6e6f0&dates=9aa2b1" width="49%" alt="GitHub Streak"/>
 
 </div>
 
