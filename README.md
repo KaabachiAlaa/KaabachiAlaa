@@ -50,47 +50,6 @@ Passionate about software development, data analysis, and machine learning.
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🎓 [E-Tuttor](#)
-A full online learning platform offering courses across various fields, with complete account management for instructors and students.
-
-### 🧹 [Data Cleaning in SQL — Nashville Housing](#)
-Cleaned and standardized the Nashville Housing dataset in SQL Server: transforming, deduplicating, and structuring the data for downstream analysis.
-
-### 🏠 [Airbnb Project with Tableau](#)
-Analyzed Airbnb listings to extract insights about rental market trends and pricing patterns.
-
-### 📊 [Data Professionals Survey Analysis with Power BI](#)
-Analyzed survey data from data professionals covering demographics, salaries, job satisfaction, preferred languages, and entry-level challenges.
-
-### 💰 [Cryptocurrency Data Analysis (CoinMarketCap API)](#)
-Fetched and processed live cryptocurrency data via the CoinMarketCap API, visualizing price variations and market trends.
-
-### 📦 [Intelligent Inventory Management](#)
-An intelligent system to help dairy factories manage inventory, predict product waste risk, and optimize stock levels.
-
----
-
-## 🎓 Education
-
-| Institution | Degree | Years |
-|---|---|---|
-| Higher Institute of Multimedia Arts of Manouba (ISAMM) | Research Master's, Data Science & Information Retrieval | 2025 – 2027 *(in progress)* |
-| Higher Institute of Multimedia Arts of Manouba (ISAMM) | Bachelor's Degree, Big Data and Data Analysis | 2022 – 2025 |
-| Lycée Mourouj 1 | High School Diploma, Computer Science (High Honors) | 2018 – 2022 |
-
----
-
-## 📜 Certifications
-
-- 🔹 AZ-900: Microsoft Azure Fundamentals
-- 🔹 DP-900: Microsoft Azure Data Fundamentals
-- 🔹 Supervised Learning with scikit-learn — DataCamp
-- 🔹 Introduction to Deep Learning with Keras
-- 🔹 Introduction to TensorFlow in Python
 
 ---
 
