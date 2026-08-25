@@ -4,7 +4,7 @@
 ### Student in Big Data & Data Analysis | Data Science Master's Student
 
 [![Portfolio](https://img.shields.io/badge/Project_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaabachialaa.github.io/AlaaKaabachiProjectWebsite/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaabach-alaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-kaabachi-6115a9246/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaakaabachi100@gmail.com)
 
 <br/>
